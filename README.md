@@ -5,7 +5,7 @@
 * Groq
 
 instale o Python 3.x
-Instale a biblioteca streamlit (pip install streamlit)
+Instale a biblioteca streamlit (pip install streamlit) - você precisa estar dentro da pasta do projeto.
 rode o projeto (instreamlit run ia_python)
 
 - Groq é uma chave LLM (você pode criar a sua no site da groq ou pode utilizar a minha que está dentro do projeto)
